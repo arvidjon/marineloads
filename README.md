@@ -2,7 +2,7 @@
 
 A validated Python package for Airy wave theory and marine wave loads.
 
-Built as a clean, tested library seeded from TMR4247 course material,
+Built as a clean, tested library seeded from TMR4247 (NTNU) course material,
 with BEM and experimental data as the validation backbone.
 
 ## Planned scope
